@@ -1,6 +1,8 @@
-#vagrant-nvm
+# vagrant-nvm
 
-##Setup and Usage
+A simple vagrant box based on Ubuntu 14 LTS (trusty) with nvm, npm and node 0.12 preinstalled
+
+## Setup and Usage
 
 ```
 vagrant up
